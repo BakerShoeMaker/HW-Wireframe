@@ -1,0 +1,91 @@
+*{
+    font-family: "Arial","Helvetica",sans-serif;
+    background-color:#777;
+}
+/*body, div, header, aside, footer{*/
+    /*margin:0px;*/
+    /*padding:0px;*/
+/*}*/
+
+.containerMaster{
+    width: 960px;
+
+
+}
+
+.containerHeader{
+    background-color: #ebebeb;
+    color: grey;
+    text-align: center;
+    margin-bottom: 10px;
+    padding: 40px;
+
+}
+.containerNav{
+
+    background-color: #ebebeb;
+    color: grey;
+    text-align: center;
+    margin-bottom: 10px;
+    padding: 40px;
+}
+
+.containerSection{
+
+    background-color: #ebebeb;
+    color: grey;
+    text-align: center;
+    margin-bottom: 10px;
+    padding: 30px;
+    width: 66%;
+    height: 300px;
+
+}
+
+.containerArticle{
+    background-color: #777;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+    width: 400px;
+    height: 200px;
+}
+
+.containerh1h2h3{
+    background-color: #ebebeb;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: grey;
+    padding: 20px;
+
+}
+
+.containerParagraph{
+    text-align: center;
+    margin-bottom: 10px;
+    color: grey;
+    padding: 20px;
+    background-color: yellowgreen;
+
+}
+
+.containerAside{
+    background-color: #ebebeb;
+    text-align: center;
+    color: grey;
+    width: 33%;
+    height: 300px;
+}
+
+.containerFooter{
+    background-color: #ebebeb;
+    text-align: center;
+    margin-top: 10px;
+    padding: 40px;
+    color: grey;
+
+}
+
